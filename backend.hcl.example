@@ -1,0 +1,4 @@
+resource_group_name  = "rg-<project>-tfstate"
+storage_account_name = "st<project>tf"
+container_name       = "tfstate"
+key                  = "<project>.tfstate"
